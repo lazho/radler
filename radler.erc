@@ -1,0 +1,37 @@
+ERC report (2019-08-01 00:14:23, Encoding UTF8 )
+
+***** Sheet /
+ErrType(8): Global label not connected to any other global label
+    @(251.46 mm, 21.59 mm): Global label COL18 is not connected to any other global label.
+ErrType(8): Global label not connected to any other global label
+    @(20.32 mm, 111.76 mm): Global label ROW6 is not connected to any other global label.
+ErrType(8): Global label not connected to any other global label
+    @(140.97 mm, 186.69 mm): Global label COL0 is not connected to any other global label.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(140.97 mm, 184.15 mm): Pin 34 (Tri-state) of component U1 is unconnected.
+ErrType(8): Global label not connected to any other global label
+    @(156.21 mm, 186.69 mm): Global label ROW0 is not connected to any other global label.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(156.21 mm, 184.15 mm): Pin 40 (Tri-state) of component U1 is unconnected.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(62.23 mm, 168.91 mm): Pin 11 (Power input) of component U1 is not driven (Net 57).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(163.83 mm, 168.91 mm): Pin 10 (Power input) of component U1 is not driven (Net 70).
+ErrType(8): Global label not connected to any other global label
+    @(110.49 mm, 186.69 mm): Global label i2c_SCL is not connected to any other global label.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(110.49 mm, 184.15 mm): Pin 22 (Tri-state) of component U1 is unconnected.
+ErrType(8): Global label not connected to any other global label
+    @(107.95 mm, 186.69 mm): Global label i2c_SDA is not connected to any other global label.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(107.95 mm, 184.15 mm): Pin 23 (Tri-state) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(105.41 mm, 184.15 mm): Pin 24 (Tri-state) of component U1 is unconnected.
+ErrType(8): Global label not connected to any other global label
+    @(105.41 mm, 186.69 mm): Global label USB_D- is not connected to any other global label.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(102.87 mm, 184.15 mm): Pin 25 (Tri-state) of component U1 is unconnected.
+ErrType(8): Global label not connected to any other global label
+    @(102.87 mm, 186.69 mm): Global label USB_D+ is not connected to any other global label.
+
+ ** ERC messages: 16  Errors 0  Warnings 16
